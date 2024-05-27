@@ -5,7 +5,7 @@
     <h1 align="center">WINCLEAN</h1>
 </p>
 <p align="center">
-    <em>HTTP error 401 for prompt `slogan`</em>
+    <em>Simple Optimization App For Windows using Python</em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/vanitiez/WinClean?style=flat&color=0080ff" alt="license">

@@ -14,7 +14,7 @@
 	<img src="https://img.shields.io/github/languages/count/vanitiez/WinClean?style=flat&color=0080ff" alt="repo-language-count">
 <p>
 <p align="center">
-		<em>Developed with the software and tools below.</em>
+		<em>Developed with the following software and tools.</em>
 	https://www.blackbox.ai/
 </p>
 <p align="center">
@@ -25,17 +25,8 @@
 
 > - [📍 Overview](#-overview)
 > - [📦 Features](#-features)
-> - [📂 Repository Structure](#-repository-structure)
-> - [🧩 Modules](#-modules)
-> - [🚀 Getting Started](#-getting-started)
 >   - [⚙️ Installation](#️-installation)
->   - [🤖 Running WinClean](#-running-WinClean)
->   - [🧪 Tests](#-tests)
-> - [🛠 Project Roadmap](#-project-roadmap)
-> - [🤝 Contributing](#-contributing)
 > - [📄 License](#-license)
-> - [👏 Acknowledgments](#-acknowledgments)
-
 ---
 
 ## 📍 Overview

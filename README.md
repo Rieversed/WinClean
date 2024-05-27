@@ -59,7 +59,6 @@ General windows optimization app, its main goal is to have everything in one pla
 Ensure you have the following dependencies installed on your system:
 - Python
 
-* {}
 
 ### ⚙️ Installation
 
@@ -67,7 +66,7 @@ Ensure you have the following dependencies installed on your system:
 
 2. Download latest version
 
-3. Install the dependencies
+3. Install the dependencies (aka. Python) 
 
 4. Right click and select open with "Python" 
 

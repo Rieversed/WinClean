@@ -31,13 +31,17 @@
 
 ## 📍 Overview
 
-HTTP error 401 for prompt `overview`
+General windows optimization app, its main goal is to have everything in one place where its easy to acess.
 
 ---
 
 ## 📦 Features
 
-HTTP error 401 for prompt `features`
+- Quick Launch of ChrisTitusTech's WinUtil
+- Easy Cleaning Of Windows temp Files
+- Easy access to Windows Disk Cleanup
+- Game Mode (Beta)
+- Unbuilt .py file for easy editing of the code (Source Code)
 
 ---
 
@@ -48,64 +52,26 @@ HTTP error 401 for prompt `features`
     └── LICENSE
 ```
 
----
-
-## 🧩 Modules
-
-
----
-
 ## 🚀 Getting Started
 
 ***Requirements***
 
 Ensure you have the following dependencies installed on your system:
+- Python
 
 * {}
 
 ### ⚙️ Installation
 
-1. Clone the WinClean repository:
+1. Go to the Releases
 
-```sh
-git clone https://github.com/vanitiez/WinClean
-```
+2. Download latest version
 
-2. Change to the project directory:
+3. Install the dependencies
 
-```sh
-cd WinClean
-```
+4. Right click and select open with "Python" 
 
-3. Install the dependencies:
-
-```sh
-
-```
-
-### 🤖 Running WinClean
-
-Use the following command to run WinClean:
-
-```sh
-
-```
-
-### 🧪 Tests
-
-To execute tests, run:
-
-```sh
-
-```
-
----
-
-## 🛠 Project Roadmap
-
-- [X] `► INSERT-TASK-1`
-- [ ] `► INSERT-TASK-2`
-- [ ] `► ...`
+5. Enjoy
 
 ---
 
@@ -148,14 +114,7 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 
 ## 📄 License
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+This project is protected under the [MIT-License](https://choosealicense.com/licenses)
 
 ---
 
-## 👏 Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
-
-[**Return**](#-quick-links)
-
----

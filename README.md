@@ -31,7 +31,7 @@
 
 ## 📍 Overview
 
-General windows optimization app, its main goal is to have everything in one place where its easy to acess.
+General windows optimization app, its main goal is to have everything in one place where its easy to access.
 
 ---
 

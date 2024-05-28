@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/a/ikqLTxw" width="100" />
+  <img src="https://cdn.glitch.global/e3e32469-706a-48cb-b345-8cec79902113/image.png?v=1716911761229" width="100" />
 </p>
 <p align="center">
     <h1 align="center">WINCLEAN</h1>
